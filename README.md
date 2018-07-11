@@ -33,9 +33,9 @@
  #### o It is difficult to tell the exact location in the accident scene.
  #### oThe Golden Hour is important in the accident scene, so we need a quick mobilization.
 
-![Suggestion 1]()
-![Suggestion 2]()
-![Suggestion 3]()
+![Suggestion 1](https://github.com/jihoonsin/Car_Accident_Detection_System/blob/master/suggestion1.jpg)
+![Suggestion 2](https://github.com/jihoonsin/Car_Accident_Detection_System/blob/master/suggestion2.jpg)
+![Suggestion 3](https://github.com/jihoonsin/Car_Accident_Detection_System/blob/master/suggestion3.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
  # Function
@@ -70,7 +70,7 @@
 
 * turn on the Green LED, click the '처리' button on the monitor.*
       
-![System Flow]()
+![System Flow](https://github.com/jihoonsin/Car_Accident_Detection_System/blob/master/system_flow.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 # Effects
